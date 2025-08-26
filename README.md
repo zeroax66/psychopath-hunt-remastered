@@ -49,6 +49,6 @@ Game features:
 - Madness mode is now more intense; floor creaks increase on madness and extreme modes.  
 - And much, much more.
 
-game dev:neutralizegames (zeroax66)
-game link:https://www.mediafire.com/file/g2d1ssqnzkk2cpv/Psychopath_Hunt_Remastered_1.3.apk/file
-game gameplay:https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux
+game dev: neutralizegames (zeroax66) https://www.youtube.com/@zeroax66
+game link: https://www.mediafire.com/file/g2d1ssqnzkk2cpv/Psychopath_Hunt_Remastered_1.3.apk/file
+game gameplay: https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux
