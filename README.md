@@ -1,4 +1,22 @@
-# Psychopath Hunt Remastered 1.3 – Update Changelog
+# Psychopath Hunt Remastered 1.3 About The Game
+
+Psychopath Hunt: Remastered - Step into the chilling world of an unhinged maniac as you embark on a dangerous mission to rescue an innocent girl from the clutches of evil. With enhanced visuals, refined gameplay, and even more heart-pounding moments, this remastered version of the game will test your nerves like never before. Navigate through a terrifyingly detailed house, filled with dark secrets, hidden clues, and ominous traps. Stay alert, as the unpredictable psychopath can hear your every move, making each step a gamble with your life. Will you be able to outsmart the killer and save the girl before time runs out?
+
+Game features:
+
+- Gripping storyline with new twists and surprises.
+
+- Enhanced, atmospheric environments with stunning graphics.
+
+- An even more menacing and unpredictable killer.
+
+- Complex puzzles with fresh challenges.
+
+- Expanded hidden object scenes and new interactive items.
+
+- Immersive sound design and updated audio effects for a more intense experience.
+
+# Psychopath Hunt Remastered 1.3 Changelog
 
 - Fixed numerous bugs and issues across the game.  
 - Fixed Game Over and end scene text size issues.  
