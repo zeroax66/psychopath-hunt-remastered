@@ -58,7 +58,7 @@ Navigate a terrifyingly detailed house filled with dark secrets, hidden clues, a
 
 ---
 
-## Gameplay Videos (Ordered by Subscriber Count)
+## Gameplay Videos
 - **Vividplays – 4M subscribers:** [Watch](https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux)  
 - **GamersTurk – 1.12M subscribers:** [Watch](https://youtu.be/nsLCpp3xWY8?si=y0KlfZVhP6JIcF4e)  
 - **KC Gaming – 430K subscribers:** [Watch](https://youtu.be/oYRQ92-1Lz0?si=nWXsn_ZRAK8bwGJ7)  
