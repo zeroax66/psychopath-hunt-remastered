@@ -58,13 +58,13 @@ Navigate a terrifyingly detailed house filled with dark secrets, hidden clues, a
 
 ---
 
-## Gameplay Videos
-- **Vividplays:** [Watch](https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux)  
-- **Mulo The Gamer:** [Watch](https://youtu.be/Pj7GFccB188?si=sSazsnROhACUMDKW)  
-- **GamersTurk:** [Watch](https://youtu.be/nsLCpp3xWY8?si=y0KlfZVhP6JIcF4e)  
-- **Sunil Pokhryal:** [Watch](https://youtu.be/DYwqLprCdTU?si=GQU5eve0_H1R9k_Z)  
-- **KC Gaming:** [Watch](https://youtu.be/oYRQ92-1Lz0?si=nWXsn_ZRAK8bwGJ7)  
-- **Pixel Lated:** [Watch](https://youtu.be/uGJel57JmJw?si=-IumeniSfhYZXhBb)  
-- **Enormous Gamer:** [Watch](https://youtu.be/vnPbV8atdFg?si=38tOvtEJ7kPDDlEi)  
-- **CSK EVIL GAMER:** [Watch](https://youtu.be/mkg84gEhe18?si=eFFH5vKVUXFNcK75)  
-- **Anxleen:** [Watch](https://youtu.be/vKTUPFK4i9E?si=j3gHrlQAbaal9f2U)
+## Gameplay Videos (Ordered by Subscriber Count)
+- **Vividplays – 4M subscribers:** [Watch](https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux)  
+- **GamersTurk – 1.12M subscribers:** [Watch](https://youtu.be/nsLCpp3xWY8?si=y0KlfZVhP6JIcF4e)  
+- **KC Gaming – 430K subscribers:** [Watch](https://youtu.be/oYRQ92-1Lz0?si=nWXsn_ZRAK8bwGJ7)  
+- **Enormous Gamer – 393K subscribers:** [Watch](https://youtu.be/vnPbV8atdFg?si=38tOvtEJ7kPDDlEi)  
+- **CSK EVIL GAMER – 382K subscribers:** [Watch](https://youtu.be/mkg84gEhe18?si=eFFH5vKVUXFNcK75)  
+- **Sunil Pokhryal – 310K subscribers:** [Watch](https://youtu.be/DYwqLprCdTU?si=GQU5eve0_H1R9k_Z)  
+- **Mulo The Gamer – 138K subscribers:** [Watch](https://youtu.be/Pj7GFccB188?si=sSazsnROhACUMDKW)  
+- **Pixel Lated – 103K subscribers:** [Watch](https://youtu.be/uGJel57JmJw?si=-IumeniSfhYZXhBb)  
+- **Anxleen – 56.3K subscribers:** [Watch](https://youtu.be/vKTUPFK4i9E?si=j3gHrlQAbaal9f2U)
