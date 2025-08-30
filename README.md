@@ -50,8 +50,35 @@ Game features:
 - Madness mode is now more intense; floor creaks increase on madness and extreme modes.  
 - And much, much more.
 
-game dev: neutralizegames (zeroax66) https://www.youtube.com/@zeroax66
+Game Developer: neutralizegames (zeroax66) https://www.youtube.com/@zeroax66
 
-game link: https://www.mediafire.com/file/g2d1ssqnzkk2cpv/Psychopath_Hunt_Remastered_1.3.apk/file
+Game Link: https://www.mediafire.com/file/g2d1ssqnzkk2cpv/Psychopath_Hunt_Remastered_1.3.apk/file
 
-game gameplay: https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux
+Youtuber's Gameplays Of The Game: 
+
+Vividplays Gameplay:
+https://youtu.be/xlCk5Kqzaa8?si=ZsSakozMxpNC4uux
+
+Mulo The Gamer Gameplay:
+https://youtu.be/Pj7GFccB188?si=sSazsnROhACUMDKW
+
+GamersTurk Gameplay:
+https://youtu.be/nsLCpp3xWY8?si=y0KlfZVhP6JIcF4e
+
+Sunil Pokhryal gameplay:
+https://youtu.be/DYwqLprCdTU?si=GQU5eve0_H1R9k_Z
+
+KC Gaming Gameplay:
+https://youtu.be/oYRQ92-1Lz0?si=nWXsn_ZRAK8bwGJ7
+
+Pixel Lated Gameplay:
+https://youtu.be/uGJel57JmJw?si=-IumeniSfhYZXhBb
+
+Enormous Gamer Gameplay:
+https://youtu.be/vnPbV8atdFg?si=38tOvtEJ7kPDDlEi
+
+CSK EVIL GAMER Gameplay
+https://youtu.be/mkg84gEhe18?si=eFFH5vKVUXFNcK75
+
+Anxleen Gameplay:
+https://youtu.be/vKTUPFK4i9E?si=j3gHrlQAbaal9f2U
