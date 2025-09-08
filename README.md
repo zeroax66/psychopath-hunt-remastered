@@ -1,7 +1,7 @@
 # Psychopath Hunt Remastered
 
 ## About The Game
-Sstep into the chilling world of an unhinged maniac in **Psychopath Hunt: Remastered**. Your mission is to rescue an innocent girl from the clutches of evil. This remastered version features enhanced visuals, refined gameplay, and even more heart-pounding moments.  
+Step into the chilling world of an unhinged maniac in **Psychopath Hunt: Remastered**. Your mission is to rescue an innocent girl from the clutches of evil. This remastered version features enhanced visuals, refined gameplay, and even more heart-pounding moments.  
 
 Navigate a terrifyingly detailed house filled with dark secrets, hidden clues, and ominous traps. Stay alert, as the unpredictable psychopath can hear every move, making each step a gamble with your life. Will you outsmart the killer and save the girl before time runs out?
 
